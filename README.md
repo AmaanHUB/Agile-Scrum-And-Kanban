@@ -6,7 +6,32 @@
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
 
+## SCRUM
 
+### SCRUM Roles
+* Development:
+	* The people that do the work, developers, designers, writers etc.
+	* Responsibilities:
+		* Delivering the work through the sprint
+		* Ensure transparency through the sprint at the daily standup
+* Product owner:
+	* Setting clear direction throughout the project
+	* Responsibilities:
+		* Manage the SCRUM backlog
+		* Release management
+		* Stakeholder management (work with all stakeholders to ensure development team is delivering value)
+* SCRUM Master:
+	* Glue everything together and ensuring that the SCRUM is being done well
+	* Responsibilities:
+		* Transparency (everyone can see what is going on)
+		* Empiricism
+		* Self-organisation
+		* Values -
+			- Courage
+			- Focus
+			- Commitment
+			- Respect
+			- Openness
 ## User Stories
 
 A user story is the smallest unit of work in an agile framework, though they can be used in other methodologies. It is often an end goal expressed from the software user's perspective.
