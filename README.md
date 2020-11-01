@@ -35,7 +35,7 @@
 
 ### SCRUM Ceremonies
 
-![](https://www.slidesalad.com/wp-content/uploads/2018/07/013-Scrum-Process.jpg)
+![](Scrum-Process.jpg)
 
 1. Sprint Backlog Refinement
 	* Product owner and development team collaborate on the details within the backlog to refine, review and revise what is to be done
