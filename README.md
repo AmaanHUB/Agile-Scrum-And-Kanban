@@ -55,6 +55,14 @@
 		* What can be improved?
 
 ### SCRUM Artifacts
+* Product Backlog
+	* Master TO DO list of what needs to be done .e.g. features, requirements etc
+* Spring Backlog
+	* List of items, user stories, bugs etc selected for the development team for implementation in the current sprint cycle
+* Spring Goal
+	* End product from a sprint that works, meets definition of done
+
+
 
 ## User Stories
 
@@ -90,6 +98,14 @@ The helps to remember a widely accepted set of criteria or checklist to assess t
 * S - Small (so can fit within an iteration)
 * T - Testable (in theory, even if there is not available test yet)
 
+### The 3 Amigos
+The main perspectives used to examine an section of work before, during, and after development:
+* Business
+	* What problem are we trying to solve?
+* Development
+	 * How might we build a solution to solve that problem?
+* Testing
+	* What about this, what could possibly happen?
 ## Epic Stories
 
 In short, an epic is a body of work that can be broken down into specific tasks (user stories) based upon the needs and requests of customers or end users. They can be a helpful way to organise work and create a hierarchy so that work can be broken down into shippable pieces so that large projects can get done on time and can continue to be shipped to customers on a regular basis.
@@ -103,7 +119,6 @@ In short, an epic is a body of work that can be broken down into specific tasks 
 * Continuous modification of user stories
 * Effective teamwork and communication
 
-//TODO example
 
 # How Do User and Epic Stories Fit In With Agile and SCRUM?
 
