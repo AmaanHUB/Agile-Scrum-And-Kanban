@@ -80,10 +80,15 @@ They are an informal, general explanation of a software feature written from the
 * What needs to be built?
 * What value does it create?
 
-### Examples
+### INVEST
 
-//TODO add an example
-
+The helps to remember a widely accepted set of criteria or checklist to assess to quality of a user story. This is:
+* I - Independent (of all others)
+* N - Negotiable (no specific contract for features)
+* V - Valuable
+* E - Estimatable (to a good approximation)
+* S - Small (so can fit within an iteration)
+* T - Testable (in theory, even if there is not available test yet)
 
 ## Epic Stories
 
