@@ -32,6 +32,30 @@
 			- Commitment
 			- Respect
 			- Openness
+
+### SCRUM Ceremonies
+1. Sprint Backlog Refinement
+	* Product owner and development team collaborate on the details within the backlog to refine, review and revise what is to be done
+2. Sprint Planning Meeting
+	* Breaks down items to do into tasks by asking:
+		* What are we going to work on?
+		* How are we going to do it?
+3. Daily Stand-up Meeting
+	* Daily SCRUM organised by the SCRUM master to synchronise the work of the team members
+	* Ask:
+		* What's done the prior day?
+		* What needs to be done?
+		* Any impediements?
+4. Sprint Review Meeting
+	* Held at end of each sprint, gives feedback to product owner and stakeholders, can rework backlog
+5. Sprint Retrospective Meeeting
+	* Reflection on previous sprint and to figure out how to improve as a team by asking:
+		* What went well?
+		* What did not?
+		* What can be improved?
+
+### SCRUM Artifacts
+
 ## User Stories
 
 A user story is the smallest unit of work in an agile framework, though they can be used in other methodologies. It is often an end goal expressed from the software user's perspective.
