@@ -106,6 +106,7 @@ The main perspectives used to examine an section of work before, during, and aft
 	 * How might we build a solution to solve that problem?
 * Testing
 	* What about this, what could possibly happen?
+
 ## Epic Stories
 
 In short, an epic is a body of work that can be broken down into specific tasks (user stories) based upon the needs and requests of customers or end users. They can be a helpful way to organise work and create a hierarchy so that work can be broken down into shippable pieces so that large projects can get done on time and can continue to be shipped to customers on a regular basis.
@@ -126,5 +127,12 @@ Agile methodologies can implement user and epic stories to guide the and manage 
 
 
 For example, an epic can be a sprint which is to 'update the UI the devices which view and use the website' with the user stories comprising of each task in the sprint .e.g. user A wants to access from a large iOS device. Epics themself in agile help the team understand how, why and what is required for the completion of a project which should reduce any potential issues for the team arising from miscommunication since it is all within the team.
+
+# Kanban
+Kanban is less 'structured' and all about limiting work in progress and maximising efficiency or flow. Focus on reducing time is takes to take a project (or user story) from start to finish. They do this by using a kanban board and continuously improving their flow of work. A kanban board basically has three stages of tasks that anyone can assign, **to do, in progress and done**.
+
+See below for a table that compares kanban and SCRUM.
+
+![](Kanban-vs-SCRUM.png)
 
 
