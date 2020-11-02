@@ -60,9 +60,9 @@
 ### SCRUM Artifacts
 * Product Backlog
 	* Master TO DO list of what needs to be done .e.g. features, requirements etc
-* Spring Backlog
+* Sprint Backlog
 	* List of items, user stories, bugs etc selected for the development team for implementation in the current sprint cycle
-* Spring Goal
+* Sprint Goal
 	* End product from a sprint that works, meets definition of done
 
 
