@@ -48,7 +48,7 @@
 	* Ask:
 		* What's done the prior day?
 		* What needs to be done?
-		* Any impediements?
+		* Any impediments?
 4. Sprint Review Meeting
 	* Held at end of each sprint, gives feedback to product owner and stakeholders, can rework backlog
 5. Sprint Retrospective Meeeting
